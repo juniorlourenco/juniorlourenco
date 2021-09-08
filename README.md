@@ -8,7 +8,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently studying React JS ![image]{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}, [Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) and [Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white).
+:books: I’m currently studying React JS ![![image](https://user-images.githubusercontent.com/56567317/132527707-802c8654-a776-47a7-8c1e-ddf83a546236.png)]{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}, [Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) and [Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white).
 
 ## About me
 
