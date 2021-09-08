@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm (Junior Lourenço)!
+## I'm Junior Lourenço!
 
  
 
