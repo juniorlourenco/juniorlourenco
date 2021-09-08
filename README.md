@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**juniorlourenco/juniorlourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm (Junior Lourenço)!
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer: I'm a Web Development Enthusiast.
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently studying [React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB), [Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) and [Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white).
+
+## About me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/junior-lourenco/?locale=en_US)]( https://www.linkedin.com/in/junior-lourenco/?locale=en_US)
+
+
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
