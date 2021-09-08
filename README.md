@@ -2,8 +2,7 @@
 
 ## I'm Junior Lourenço!
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorlourenco)](https://github.com/juniorlourenco/github-readme-stats)
- 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorlourenco&hide=contribs,prs)](https://github.com/juniorlourenco/github-readme-stats)
 
 :computer: I'm a Web Development Enthusiast.
 
