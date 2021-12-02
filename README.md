@@ -3,7 +3,6 @@
 ## I'm Junior Lourenço!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorlourenco)](https://github.com/juniorlourenco/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorlourenco&hide=contribs,prs,issues)](https://github.com/juniorlourenco/github-readme-stats)
 
 :computer: I'm a Web Development Enthusiast.
 
