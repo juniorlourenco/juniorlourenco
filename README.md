@@ -2,7 +2,7 @@
 
 ## I'm Junior Lourenço!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ersin)](https://github.com/ersin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorlourenco)](https://github.com/juniorlouenco/github-readme-stats)
 
 :computer: I'm a Web Development Enthusiast.
 
